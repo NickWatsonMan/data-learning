@@ -2,10 +2,10 @@
 
 This repository is created for data exploration for educational and non-educational purposes.
 
-Currently working on – [League of Legends Diamond Ranked Games|https://github.com/NickWatsonMan/data-learning/blob/master/projects/n1_loldrg.ipynb]
+Currently working on – [League of Legends Diamond Ranked Games](https://github.com/NickWatsonMan/data-learning/blob/master/projects/n1_loldrg.ipynb)
 
 The full list of my works:
-1. [League of Legends Diamond Ranked Games|https://github.com/NickWatsonMan/data-learning/blob/master/projects/n1_loldrg.ipynb]
+1. [League of Legends Diamond Ranked Games](https://github.com/NickWatsonMan/data-learning/blob/master/projects/n1_loldrg.ipynb)
 
 
 # For special ones
